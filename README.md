@@ -4,6 +4,7 @@
 # Project Overview
 
 **Name:** Ayush Varshney 
+
 **Registration No.:** 25BCE10938
 
 This project brings together different aspects of digital literacy, coding practice, online portfolios, and cybercrime awareness. Each task helped me build practical skills that will support both my academic journey and future career.
@@ -35,7 +36,7 @@ Starting early ensures I’ll have a consistent online presence by the time plac
 - Built a **Digital Literacy Awareness Quiz** using Google Forms, collected responses, and analyzed results in Google Sheets.  
 This taught me how to create surveys, gather data, and interpret results quickly.
 
-https://docs.google.com/forms/d/e/1FAIpQLScDGRP-4nfgFNXm_fu_VDW_tUWIhB2quUsULe72kC2DHqDXcw/viewform?usp=publish-editor
+ Quiz link-https://docs.google.com/forms/d/e/1FAIpQLScDGRP-4nfgFNXm_fu_VDW_tUWIhB2quUsULe72kC2DHqDXcw/viewform?usp=publish-editor
 
 
 ---
@@ -57,9 +58,9 @@ Key takeaways:
 ---
 
 ## 🔗 My Profiles
-- [LinkedIn](https://www.linkedin.com/in/anmol-kumar-6b3897384/)  
-- [GitHub](https://github.com/AnmolKumar153/)  
-- [CodeChef](https://www.codechef.com/users/anmolkumar153)  
+- [LinkedIn](https://www.linkedin.com/in/ayush-varshney-39006a379/)  
+- [GitHub](https://github.com/ayushvarshney07/)  
+- [Hacker Rank](https://www.hackerrank.com/profile/ayushvarshney170)  
 
 ---
 
