@@ -35,7 +35,8 @@ Starting early ensures I’ll have a consistent online presence by the time plac
 - Built a **Digital Literacy Awareness Quiz** using Google Forms, collected responses, and analyzed results in Google Sheets.  
 This taught me how to create surveys, gather data, and interpret results quickly.
 
-Quiz link:https://docs.google.com/forms/d/e/1FAIpQLSd7CusjNWP9RKn4xUP7jBNPqVCaexHjgKEPLHqJ6JiuYDTH-Q/viewform?usp=header
+https://docs.google.com/forms/d/e/1FAIpQLScDGRP-4nfgFNXm_fu_VDW_tUWIhB2quUsULe72kC2DHqDXcw/viewform?usp=publish-editor
+
 
 ---
 
