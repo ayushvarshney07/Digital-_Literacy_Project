@@ -32,7 +32,7 @@ Starting early ensures I’ll have a consistent online presence by the time plac
 ---
 
 ### Task 3 – Coding & Collaboration Platforms
-- Practiced beginner challenges on **CodeChef** to understand competitive programming.  
+- Practiced beginner challenges on **HackerRank** to understand competitive programming.  
 - Built a **Digital Literacy Awareness Quiz** using Google Forms, collected responses, and analyzed results in Google Sheets.  
 This taught me how to create surveys, gather data, and interpret results quickly.
 
